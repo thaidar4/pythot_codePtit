@@ -17,5 +17,5 @@ def solve(n):
             return "NO"
     return "YES"
 
-for i in range(int(input())):
+for loop in range(int(input())):
     print(solve(input()))
